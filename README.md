@@ -28,7 +28,7 @@ GitHub 上拉取软件通常要在黑色终端里敲 `git clone`，普通人很�
 
 ## 📸 界面预览
 
-![EraPuller 界面预览](docs/screenshot.png)
+![EraPuller 界面预览](screenshot.png)
 
 ## 🚀 快速开始
 
